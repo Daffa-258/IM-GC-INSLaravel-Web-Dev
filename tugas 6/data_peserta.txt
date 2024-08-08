@@ -1,0 +1,4 @@
+Data Peserta GC-INS Bootcamp Laravel Web Dev
+1.Nama : Daffa Dhyaulhaq
+2.Email : ddhyaulhaq@gmail.com
+3.Akun github : https://github.com/Daffa-258/IM-GC-INSLaravel-Web-Dev
